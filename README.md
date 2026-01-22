@@ -2,7 +2,7 @@
 
 Software engineer based in Edinburgh. I build tools that solve real problems — from Twitch bots to solar dashboards.
 
-**Currently working with:** TypeScript · Swift · Python · Node.js
+**Currently working with:** TypeScript · Swift · Node.js
 
 ---
 
