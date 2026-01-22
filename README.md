@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Software engineer based in Edinburgh. I build tools that solve real problems — from Twitch bots to solar dashboards.
+Software engineer based in Edinburgh. When I'm not solving problems for companies, I build side projects that scratch my own itch — from Twitch bots to dam level dashboards.
 
 **Currently working with:** TypeScript · React · React Native · Node.js · AWS · PHP
 
