@@ -18,3 +18,4 @@ Software engineer based in Edinburgh. I build tools that solve real problems —
 
 ✅ **[picabit](https://github.com/teseo/picabit)** — Habit tracking app. Small steps, big changes
 
+
