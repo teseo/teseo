@@ -6,7 +6,7 @@ Software engineer based in Edinburgh. I build tools that solve real problems —
 
 ---
 
-### Projects
+### Latest projects I've worked on
 
 🤖 **[manolitozurrapa](https://github.com/teseo/manolitozurrapa)** — Twitch bot with AI personality, clip management and chat commands
 
