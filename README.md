@@ -2,7 +2,7 @@
 
 Software engineer based in Edinburgh. I build tools that solve real problems — from Twitch bots to solar dashboards.
 
-**Currently working with:** TypeScript · React · Node.js · PHP
+**Currently working with:** TypeScript · React · React Native · Node.js · AWS · PHP
 
 ---
 
