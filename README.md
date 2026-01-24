@@ -1,8 +1,8 @@
 ## Hey there
 
-Software engineer based in Edinburgh. When I'm not solving problems for companies, I build things I actually want to use, from Twitch bots to photo sharing and storage management mobile apps.
+Software engineer based in Edinburgh. When I'm not solving problems for companies, I build things I actually want to use, from Twitch bots to AI-powered tools and mobile apps.
 
-**Currently working with:** TypeScript · React · React Native · Bun · Node.js · Python · AWS · PHP
+**Currently working with:** TypeScript · React · React Native · Bun · Node.js · Python · Ollama · AWS · PHP
 
 ---
 
