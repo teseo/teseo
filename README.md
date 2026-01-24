@@ -1,10 +1,12 @@
 ## Hey there
 
-Software engineer based in Edinburgh. When I'm not solving problems for companies, I build things I actually want to use, from Twitch bots to AI-powered tools and mobile apps.
+Software engineer based in Edinburgh. When I'm not solving problems for companies, I build things I actually want to use — from Twitch bots to AI-powered tools and mobile apps.
+
+Also a musician who streams, so I build my own tools to process VODs. 100% local AI when possible, cloud APIs when needed.
 
 **Currently working with:** TypeScript · React · React Native · Bun · Node.js · Python · AWS · PHP
 
-**Experience with:** Local LLMs (Ollama) · Whisper · OpenAI API
+**Experience with:** Local LLMs (Ollama, Whisper) · OpenAI API · Claude API · Audio processing (librosa, FFmpeg)
 
 ---
 
@@ -19,3 +21,15 @@ Software engineer based in Edinburgh. When I'm not solving problems for companie
 🧹 **[Mole](https://github.com/teseo/Mole)** — macOS deep clean and optimization tool (fork)
 
 📸 **[picabit](https://github.com/teseo/picabit)** — React Native app: snap, share, auto-delete. Keep your gallery clean
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teseo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  🎸 Guitar player · ☕ Coffee addict · 🌧️ Scottish weather survivor
+</p>
