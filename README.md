@@ -1,6 +1,6 @@
 ## Hey there
 
-Software engineer based in Edinburgh. When I'm not solving problems for companies, I build things I actually want to use — from Twitch bots to AI-powered tools and mobile apps.
+Senior fullstack engineer based in Edinburgh with 20+ years shipping software. When I'm not solving problems for companies, I build things I actually want to use — from Twitch bots to AI-powered tools and mobile apps.
 
 Also a musician who streams, so I build my own tools to process VODs. 100% local AI when possible, cloud APIs when needed.
 
