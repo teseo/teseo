@@ -31,5 +31,5 @@ Also a musician who streams, so I build my own tools to process VODs. 100% local
 ---
 
 <p align="center">
-  🎸 Guitar player · ☕ Coffee addict · 🌧️ Scottish weather survivor
+  🎸 Guitar player · ☕ Coffee addict · 🌧️ Scottish weather lover
 </p>
