@@ -25,11 +25,5 @@ Also a musician who streams, so I build my own tools to process VODs. 100% local
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teseo&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
   🎵 Multi-instrumentalist · ☕ Coffee addict · 🌧️ Scottish weather lover
 </p>
