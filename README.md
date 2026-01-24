@@ -18,7 +18,7 @@ Also a musician who streams, so I build my own tools to process VODs. 100% local
 
 💧 **[safawater](https://github.com/teseo/safawater)** — South Africa dam levels dashboard. Fastify API + React + SQLite monorepo
 
-🧹 **[Mole](https://github.com/teseo/Mole)** — macOS deep clean and optimization tool (fork)
+🧹 **[Mole](https://github.com/teseo/Mole)** — macOS deep clean and optimization tool (fork with find duplicates feature)
 
 📸 **[picabit](https://github.com/teseo/picabit)** — React Native app: snap, share, auto-delete. Keep your gallery clean
 
