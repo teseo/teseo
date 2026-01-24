@@ -8,6 +8,8 @@ Software engineer based in Edinburgh. When I'm not solving problems for companie
 
 ### Latest projects I've worked on
 
+🎬 **[petecanArchive](https://github.com/teseo/petecanArchive)** — Local VOD processing: transcribe, detect music segments, find highlights with AI
+
 🤖 **[manolitozurrapa](https://github.com/teseo/manolitozurrapa)** — Twitch bot with AI personality, clip management and chat commands
 
 💧 **[safawater](https://github.com/teseo/safawater)** — South Africa dam levels dashboard. Fastify API + React + SQLite monorepo
@@ -15,5 +17,3 @@ Software engineer based in Edinburgh. When I'm not solving problems for companie
 🧹 **[Mole](https://github.com/teseo/Mole)** — macOS deep clean and optimization tool (fork)
 
 📸 **[picabit](https://github.com/teseo/picabit)** — React Native app: snap, share, auto-delete. Keep your gallery clean
-
-
