@@ -6,13 +6,13 @@ Also a musician who streams, so I build my own tools to process VODs. 100% local
 
 **Currently working with:** TypeScript · React · React Native · Bun · Node.js · Python · AWS · PHP
 
-**Experience with:** Local LLMs (Ollama, Whisper) · OpenAI API · Claude API · Audio processing (librosa, FFmpeg)
+**Experience with:** Local LLMs (Ollama, Whisper) · OpenAI API · Claude API · DeepSeek API · FFmpeg
 
 ---
 
 ### Latest projects I've worked on
 
-🎬 **[petecanArchive](https://github.com/teseo/petecanArchive)** — Local VOD processing: transcribe, detect music segments, find highlights with AI
+🎬 **[petecanArchive](https://github.com/teseo/petecanArchive)** — Local VOD processing: transcribe, filter lyrics vs speech, score highlights with LLM
 
 🤖 **[manolitozurrapa](https://github.com/teseo/manolitozurrapa)** — Twitch bot with AI personality, clip management and chat commands
 
