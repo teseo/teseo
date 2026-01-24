@@ -25,7 +25,7 @@ Also a musician who streams, so I build my own tools to process VODs. 100% local
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teseo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teseo&show_icons=true&theme=dark&hide_border=true&hide_rank=true" alt="GitHub Stats" />
 </p>
 
 ---
