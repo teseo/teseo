@@ -12,9 +12,7 @@ Also a musician who streams, so I build my own tools to process VODs. 100% local
 
 ### Latest projects I've worked on
 
-🎬 **[petecanArchive](https://github.com/teseo/petecanArchive)** — Local VOD processing: transcribe, filter lyrics vs speech, score highlights with LLM
-
-🤖 **[manolitozurrapa](https://github.com/teseo/manolitozurrapa)** — Twitch bot with AI personality, clip management and chat commands
+🎬 **[twitch-toolkit](https://github.com/teseo/twitch-toolkit)** — Monorepo for Twitch streamers: VOD highlight scoring, AI chat bot, clip extraction
 
 💧 **[safawater](https://github.com/teseo/safawater)** — South Africa dam levels dashboard. Fastify API + React + SQLite monorepo
 
