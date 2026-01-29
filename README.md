@@ -1,12 +1,12 @@
 ## Hey there
 
-Senior fullstack engineer based in Edinburgh with 20+ years shipping software. When I'm not solving problems for companies, I build things I actually want to use from Twitch bots to AI-powered tools and mobile apps.
+Agentic AI Engineer based in Edinburgh with 21+ years shipping software. I orchestrate AI agents across the full development cycle.
 
-Also a musician who streams, so I build my own tools to process VODs. 100% local AI when possible, cloud APIs when needed.
+When I'm not solving problems for companies, I build things I actually want to use: Twitch bots, AI-powered tools, mobile apps. Also a musician who streams, so I build my own tools to process VODs. 100% local AI when possible, cloud LLM APIs when needed.
 
-**Currently working with:** TypeScript · React · React Native · Bun · Node.js · Python · AWS · PHP
+**Currently working with:** TypeScript · Node.js · React · React Native · AWS · Claude Code · Codex CLI
 
-**Experience with:** Local LLMs (Ollama, Whisper) · OpenAI API · Claude API · DeepSeek API · FFmpeg
+**Agentic AI stack:** Claude · OpenAI · Gemini · DeepSeek · Ollama · Whisper · MCP integrations · FFmpeg
 
 ---
 
