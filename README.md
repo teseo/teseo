@@ -14,6 +14,8 @@ When I'm not solving problems for companies, I build things I actually want to u
 
 🎬 **[twitch-toolkit](https://github.com/teseo/twitch-toolkit)** — Monorepo for Twitch streamers: VOD highlight scoring, AI chat bot, clip extraction
 
+🎬 **[human.md](https://github.com/thellmwhisperer/human.md)** — Framework for healthy agent and developer experience
+
 💧 **[safawater](https://github.com/teseo/safawater)** — South Africa dam levels dashboard. Fastify API + React + SQLite monorepo
 
 🧹 **[Mole](https://github.com/teseo/Mole)** — macOS deep clean and optimization tool (fork with find duplicates feature)
