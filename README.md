@@ -1,4 +1,4 @@
-# Javier Mellado · `teseo`
+# Javier Mellado
 
 **Solo builder. I orchestrate fleets of AI agents to ship software, and I create the tooling that makes that work.**
 
