@@ -10,7 +10,8 @@ Agentic engineer in Edinburgh, 20+ years writing code. These days I spend less t
 Deterministic harness for autonomous issue-to-PR pipelines. An event-sourced state machine drives fixed roles (coder, gatekeeper, reviewer) with strict role separation, SHA-pinned review gates, CI reconciliation, and a human-in-the-loop merge. Built on git worktrees and tmux.
 
 **☁️ [roca-cloud](https://github.com/thellmwhisperer/roca-cloud)**  
-The cloud memory plane: roca's MCP-native store deployed on AWS as a single ARM64 Lambda behind API Gateway, backed by private RDS PostgreSQL and Secrets Manager, provisioned end-to-end with CDK.
+Roca Cloud is a MCP-native store deployed on AWS as a single ARM64 Lambda behind API Gateway, backed by private RDS PostgreSQL and Secrets Manager, provisioned end-to-end with CDK.
+Roca Cloud is its own durable memory plane. Bedrock and AgentCore workloads can run around it — as agents, distillers, runners, and observability pipelines — all reading from and writing to 
 
 **🛡️ [human.md](https://github.com/thellmwhisperer/human.md)**  
 A guardrail framework for human-agent pairing: declarative rules that tell a coding agent when to defer, stop, or hand back control, enforced through hooks.
