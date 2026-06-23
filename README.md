@@ -24,6 +24,9 @@ Agent-native RAG over conference talks. Hybrid retrieval over SQLite FTS5 full-t
 **🏠 [land-registry-nlq](https://github.com/thellmwhisperer/land-registry-nlq)**  
 Text-to-SQL over 31M UK Land Registry transactions. Plain-English questions compiled to PostgreSQL and validated against the query AST (libpg-query) before execution, with Claude Haiku in the loop.
 
+**🎬 [twitch-toolkit](https://github.com/teseo/twitch-toolkit)**  
+End-to-end pipeline that turns a multi-hour stream VOD into publishable content. Whisper transcribes speech while ACRCloud detects music and Demucs separates audio, then an LLM scores segments for highlights by context not audio peaks before chapters and SEO are pushed to YouTube automatically. Multi-LLM by design: DeepSeek, OpenAI, Groq and OpenRouter, with a local-first path through Ollama.
+
 ## How I work
 
 - I design the system and the guardrails, then let agents execute inside them.
