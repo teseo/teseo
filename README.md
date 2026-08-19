@@ -18,6 +18,9 @@ MCP-native memory store deployed on AWS as a single ARM64 Lambda behind API Gate
 **🛡️ [human.md](https://github.com/thellmwhisperer/human.md)**  
 A guardrail framework for human-agent pairing: declarative rules that tell a coding agent when to defer, stop, or hand back control, enforced through hooks.
 
+
+## AI Skills
+
 **🧹 [slopslint](https://github.com/thellmwhisperer/slopslint)**  
 Blocking slop gate for AI-assisted repos: duplication detector, tombstones, ceiling ratchet. Extracted from la roca.
 
