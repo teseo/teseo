@@ -2,7 +2,7 @@
 
 **Solo builder. I orchestrate fleets of AI agents to ship software, and I create the tooling that makes that work.**
 
-Agentic engineer in Edinburgh, 20+ years writing code. These days I spend less time typing and more time at the level above the code: planning, reviewing, merging, and designing the systems that let a fleet of agents work together. Local-first whenever it is feasible.
+Agentic engineer in Edinburgh, 21 years writing code. These days I spend less time typing and more time at the level above the code: planning, reviewing, merging, and designing the systems that let a fleet of agents work together. Local-first whenever it is feasible.
 
 ## The system
 
@@ -17,6 +17,12 @@ MCP-native memory store deployed on AWS as a single ARM64 Lambda behind API Gate
 
 **🛡️ [human.md](https://github.com/thellmwhisperer/human.md)**  
 A guardrail framework for human-agent pairing: declarative rules that tell a coding agent when to defer, stop, or hand back control, enforced through hooks.
+
+**🧹 [slopslint](https://github.com/thellmwhisperer/slopslint)**  
+Blocking slop gate for AI-assisted repos: duplication detector, tombstones, ceiling ratchet. Extracted from roca-madre.
+
+**🎯 [quick-fire](https://github.com/thellmwhisperer/quick-fire)**  
+Keep your agent focused, not rambling.
 
 ## Applied AI
 
@@ -35,9 +41,24 @@ End-to-end pipeline that turns a multi-hour stream VOD into publishable content.
 - Local-first. I run models on my own hardware (Ollama, MLX) when it is feasible.
 - Tests and review are not optional. Determinism, gates, and a human merge decision are baked into how my agents ship.
 
+## Skills
+
+- Agent fleet orchestration: six frontier models plus local ones, working in parallel under supervision.
+- Natural language to structured systems: SQL, git logs, Playwright tests, Bazel queries.
+- AI-assisted delivery pipelines: review gates, slop detection, deterministic issue-to-PR flows.
+- Token economics: choosing the right model tier per task, and knowing when a 65KB classifier beats a frontier call.
+- Sovereign AI: local models, private memory, intelligence without your data leaving your machines.
+- Team enablement: prompt and context training, agentic workflow installation, AI review tooling.
+
 ## Tooling
 
 Go · TypeScript · Python · Node · React / React Native · SQLite · MCP. Claude, Codex, Pi, OpenCode, Hermes, and local models via Ollama and MLX.
+
+## Videos
+
+[The LLM Whisperer on YouTube](https://youtube.com/@thellmwhisperer): building with agent fleets, in public. Live demos, real sessions, what works and what doesn't.
+
+[LinkedIn](https://www.linkedin.com/in/javier-mellado-10545ba/) · [Activity](https://github.com/teseo)
 
 ---
 
